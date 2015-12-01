@@ -1,0 +1,16 @@
+Build.PL
+Changes
+DBIx/Class/Elasticsearch/Role/ElasticBlackholeResult.pm
+DBIx/Class/Elasticsearch/Role/ElasticResult.pm
+DBIx/Class/Elasticsearch/Role/ElasticSchema.pm
+Elasticsearch/ResultSet.pm
+LICENSE
+META.json
+README.md
+cpanfile
+cpanfile.snapshot
+lib/DBIx/Class/Elasticsearch.pm
+minil.toml
+t/00_compile.t
+META.yml
+MANIFEST
